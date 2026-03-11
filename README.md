@@ -10,7 +10,7 @@ flujo de diez etapas con referencia normativa, tres fichas de perfiles de riesgo
 simulados (bajo, medio y alto/PEP) y un documento comparativo que demuestra la
 distinción entre el marco normativo aplicable a bancos y el aplicable a fintechs.
 El objetivo es demostrar la capacidad de traducir un marco normativo en un proceso
-operacional documentado y defendible ante un entrevistador técnico del sector.
+operacional documentado.
 
 ---
 
